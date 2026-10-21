@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Wellington Costa — IT support and software development">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.6" stop-color="#f4f8fd"/>
+      <stop offset="1" stop-color="#eef4fc"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0891b2"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.12" cy="0.05" r="0.65">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.98" cy="1" r="0.6">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#64748b" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" fill="url(#bg)"/>
+  <rect width="1200" height="330" fill="url(#grid)"/>
+  <rect width="1200" height="330" fill="url(#glow1)"/>
+  <rect width="1200" height="330" fill="url(#glow2)"/>
+
+  <!-- monogram -->
+  <rect x="72" y="66" width="62" height="62" rx="17" fill="#ffffff" stroke="url(#accent)" stroke-width="1.6"/>
+  <text x="103" y="104" text-anchor="middle" dominant-baseline="central"
+        font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="25" font-weight="700" fill="url(#accent)" letter-spacing="1">WC</text>
+  <text x="150" y="92" font-family="Consolas, Menlo, monospace" font-size="12"
+        fill="#94a3b8" letter-spacing="2.4">PROFILE</text>
+  <text x="150" y="112" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="14" fill="#5b6b85">Rio Claro / RJ · Brazil</text>
+
+  <!-- name -->
+  <text x="72" y="196" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="54" font-weight="800" fill="#0b1220" letter-spacing="-1">Wellington G. Costa</text>
+  <text x="72" y="236" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="19.5" fill="#475569">IT support · Infrastructure · Software that removes manual work</text>
+
+  <!-- meta -->
+  <circle cx="78" cy="277" r="4.5" fill="#0891b2"/>
+  <text x="94" y="282" font-family="Consolas, Menlo, monospace" font-size="14"
+        fill="#5b6b85">github.com/wellrccity</text>
+  <circle cx="286" cy="277" r="3" fill="#cbd5e1"/>
+  <text x="302" y="282" font-family="Consolas, Menlo, monospace" font-size="14"
+        fill="#5b6b85">python · typescript · node</text>
+
+  <!-- terminal -->
+  <rect x="748" y="66" width="380" height="216" rx="16" fill="#ffffff" stroke="#dbe5f2" stroke-width="1.2"
+        filter="url(#cardShadow)"/>
+  <circle cx="772" cy="90" r="4.5" fill="#ff5f57"/>
+  <circle cx="790" cy="90" r="4.5" fill="#febc2e"/>
+  <circle cx="808" cy="90" r="4.5" fill="#28c840"/>
+  <text x="1108" y="95" text-anchor="end" font-family="Consolas, Menlo, monospace"
+        font-size="11" fill="#94a3b8">zsh</text>
+  <line x1="748" y1="110" x2="1128" y2="110" stroke="#e6edf7" stroke-width="1"/>
+
+  <text x="774" y="142" font-family="Consolas, Menlo, monospace" font-size="14" fill="#0891b2">$ whoami</text>
+  <text x="774" y="164" font-family="Consolas, Menlo, monospace" font-size="14" fill="#1f2b3f">it support &amp; developer</text>
+  <text x="774" y="194" font-family="Consolas, Menlo, monospace" font-size="14" fill="#0891b2">$ stack</text>
+  <text x="774" y="216" font-family="Consolas, Menlo, monospace" font-size="14" fill="#1f2b3f">python · typescript · node</text>
+  <text x="774" y="246" font-family="Consolas, Menlo, monospace" font-size="14" fill="#7c3aed">$ focus</text>
+  <text x="774" y="268" font-family="Consolas, Menlo, monospace" font-size="14" fill="#1f2b3f">automating the boring parts</text>
+
+  <rect x="0" y="327" width="1200" height="3" fill="url(#accent)" opacity="0.85"/>
+</svg>
