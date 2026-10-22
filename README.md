@@ -65,8 +65,8 @@ I got here the practical way — fixing machines, configuring networks and answe
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wellrccity&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=wellrccity&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" width="48%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wellrccity&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=wellrccity&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" width="48%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wellrccity&layout=compact&hide_border=true&theme=tokyonight&langs_count=8">
