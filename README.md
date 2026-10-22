@@ -14,7 +14,7 @@ I work with **IT support, networks and infrastructure** at Rio Claro's city hall
 
 I got here the practical way — fixing machines, configuring networks and answering *"why isn't this working?"* long before shipping production code. That shapes how I build: small, documented and maintainable by whoever picks it up next.
 
-- 🔭 **Building** browser automation for AI agents and a municipal services portal
+- 🔭 **Building** browser automation for AI agents
 - 🧩 **Into** clean APIs, zero-dependency tools and deterministic systems
 - 🎯 **Open to** IT support / infrastructure and junior–mid development roles (hybrid or remote)
 - 📍 Volta Redonda, RJ — Brazil
