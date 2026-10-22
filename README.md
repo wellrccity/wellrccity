@@ -87,3 +87,4 @@ I got here the practical way — fixing machines, configuring networks and answe
 <sub>Always up for talking about automation, infrastructure or a good debugging story.</sub>
 
 </div>
+<!-- build: 2026-10-22 -->
